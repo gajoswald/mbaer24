@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **mbaer24/mbaer24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +15,3 @@ Goals I have for this class and/or projects you'd like to complete: I wold feel 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
